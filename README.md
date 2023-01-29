@@ -1,5 +1,6 @@
 # GDrive link with the demo project folder.
-Download from here.
+Download and extract the RAR file. And then install the necessary dependencies as given below the screenshots.
+
 Link: https://drive.google.com/drive/folders/1znFiG6fMtOjPtBzY3RS7z0wZBYHSsGll?usp=sharing
 
 ## Screenshots
