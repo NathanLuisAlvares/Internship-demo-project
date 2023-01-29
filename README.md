@@ -1,4 +1,8 @@
-# Screenshots
+# GDrive link with the demo project folder.
+Download from here.
+Link: https://drive.google.com/drive/folders/1znFiG6fMtOjPtBzY3RS7z0wZBYHSsGll?usp=sharing
+
+## Screenshots
 Starting page:
 When Admin option is chosen:
  ![image](https://user-images.githubusercontent.com/67680115/215351201-3cb39086-87ba-49bd-9063-a74ffaabaa5f.png)
